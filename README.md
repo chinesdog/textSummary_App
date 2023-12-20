@@ -1,0 +1,2 @@
+# textSummary_App
+基于textrank算法的中文文本摘要网页App
